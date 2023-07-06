@@ -6,3 +6,33 @@
     color: blue;
     cursor: ;
 }
+.box{
+    
+    
+    width: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+    
+    
+    .
+    
+}
+.box2{
+    background-color: blueviolet;
+    padding: 10px;
+    
+    
+    
+}
+.box3{
+    background-color: chartreuse;
+    padding: 10px;
+    
+}
+.box1{
+    background-color: rgb(202, 13, 13);
+    padding: 10px;
+    
+}
