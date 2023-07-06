@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu-container{
+    background-color: rgb(77, 69, 69);
+    color: aliceblue;
+    padding: 20px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+
+}
+.logo-photo{
+    width: 120px;
+    
+}
+.menus{
+    display: flex;
+
+}
+.iteam{
+    margin-left: 10px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.iteam:hover{
+    color: blue;
+}
+.banner-img{
+    width: 300px;
+
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    
+    background-color: black;
+    color: white;
+    
+}
+.banner-text{
+    margin: 0px;
+}
+.title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.description{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: brown;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    
+}
+.btn:hover{
+    color: blue;
+}
+.us{
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 50px;
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: 20px;
+}
+.btn1{
+    background-color: brown;
+    text-align: center;
+    border: none;
+    padding: 2px;
+}
+.about-info{
+    margin-bottom: 15px;
+}
